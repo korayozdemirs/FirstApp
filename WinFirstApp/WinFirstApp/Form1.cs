@@ -19,7 +19,8 @@ namespace WinFirstApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Test ");
+            MessageBox.Show("Deneme");
+            MessageBox.Show("Test");
         }
     }
 }
